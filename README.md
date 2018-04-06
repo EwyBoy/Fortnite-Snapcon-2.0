@@ -4,13 +4,13 @@ Snapcon 2.0 is the second iteration of a custom macro script made in Python for 
 
 # How to use #
 
-*  1: Run the Snapcon v2.0.X.exe file and wait for the script to execute
+*  1: Run the Snapcon v2.0.X.exe file and wait for the script tell you it is ready
 *  2: Open Fortnite
 *  3: Have fun!
 
 # Keymap #
 
-TOGGLE BETWEEN BUILDING AND MILITARY MODE USING THE PIPE KEY |
+TOGGLE THE SCRIPT ON & OFF USING THE PIPE KEY |
 *The key to the left for the number 1 key*
 
 | Key     | BULIDING MODE |
